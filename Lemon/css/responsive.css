@@ -1,0 +1,553 @@
+@media screen and (min-width:1281px){
+     .conteiner  {	
+	 width:  }
+}
+@media screen and (max-width:1280px){
+    .conteiner  {	
+	 width: 91%; }
+	 .contacts div{
+	 margin-right: 24px;
+	   }
+	 .nav-block li{
+	    margin-right: 54px;
+	 }
+	 .img-lemon div{
+         width: 166px;
+         height: 196px;
+	 }
+	 .img-lemon img{
+	 	width: 100%;
+	 	height: 100%;
+	 }
+	 .item-text{
+	 	margin-right: 172px;
+	 }
+	 .item-text h2{
+	 	font-size: 92px;
+       line-height: 124px;
+	 }
+	 .conteiner2{
+	 	width: 90%;
+	 }
+	 .item-news{
+	 	width: 31%;
+	 	height: 20%;
+	 }
+	 .item-news a{
+	 	padding: 0 15px 0 66%;
+	 	line-height: 52px;
+	 }
+	 div.title-testimonials{
+	 	margin-right: 10%;
+	 }
+	 .item-testimonials{
+	 	width: 43%;
+	 	padding-left: 15px;
+	 	padding-right: 15px;
+	 }
+	.item-testimonials h2{
+		margin: 12px auto;
+	} 
+
+}
+@media screen and (max-width:1024px){
+
+	 .contacts div{
+	 	margin-right: 30px;
+	   }
+	.conteiner{
+		width:94%;
+	  }
+	  .header-top{
+	  	height: 108px;
+	  }
+	#logo-header {
+	    width: 160px;
+	    height: 50px;
+	    margin-top: 22px;
+	  }
+	  .contacts {
+	 	margin-top: 22px;
+	 }
+	 .contacts div{
+	 	float: none;
+	 }
+	 .header-nav ul{
+	 	padding:20px 0;
+	 }
+	.header-nav li{
+	    margin-right: 40px;
+	 }
+	 .header-nav li a{
+	 	font-size: 13px;
+	 }
+	.header-nav .btn{
+        font-size: 13px;
+        width: 82px;
+	}
+	.header-nav .btn-img {
+	    height: 22px;
+	    width: 22px;
+	    margin-left: 20px;
+    }
+     .header-nav .btn-img img{
+     	width: 100%;
+     	height: 100%;
+     }
+	 .header-promo h2{
+	 	font-size: 40px;
+       line-height: 74px;
+	 }
+	 .header-promo a{
+	 	font-size: 14px;
+	    line-height: 3;
+	    width: 200px;
+	    height: 40px;
+	 }
+	 .main-about {
+        height: 875px;
+    }
+	 .about-competence{
+	  flex-wrap: wrap;
+    }
+    .competence-item {
+        width: 33%;
+        background: #F6F7EB;
+	    margin-right: 10px;
+	    float: left;
+	    padding: 20px 34px 29px;
+	    margin-bottom: 10px;
+    }
+    .img-lemon img{
+    	width: 100%;
+    	height: 100%;
+    }
+    .img-lemon div{
+    	width: 150px;
+        height: 170px;
+        margin-right: 17%;
+    }
+     .item-text{
+	 	margin-right: 117px;
+	 	margin-top: 154px;
+	 	margin-left: 35px;
+	 }
+	 .item-text h2{
+	 	font-size: 80px;
+      	 
+    }
+    .item-text p{
+    	font-size: 14px;
+    }
+    .about-news{
+    	justify-content: space-around;
+    }
+    .item-news{
+	 	width: 46%;
+	 	margin-bottom: 10px;
+	 	margin-right: 27px;
+	 	height: 41%;
+	 }
+	 .item-news p:last-child{
+	 	margin-bottom: 21px;
+	 }
+	 .item-news a{
+	 	line-height: 44px;
+	 }
+	 .bg-tesimonials{
+	 	width: 90%;
+	 	background-size: 100% 100%;
+	 }
+	 .title-testimonials h2{
+	 	font-size: 31px;
+        line-height: 53px;
+	 }
+
+	  div.title-testimonials {
+       margin-right: 4%;
+	 }
+	 .item-testimonials{
+	 	padding-bottom: 3%;
+        padding-top: 3%;
+        margin-right: 20px;
+	 }
+	 .item-testimonials img{
+	 	width: 100px;
+       height: 100px;
+	 }
+	 .item-testimonials h2{
+	 	font-size: 18px;
+        line-height: 22px;
+        margin: 8% auto;
+	 }
+	 .item-testimonials p{
+	 	font-size: 12px;
+       line-height: 20px;
+	 }
+	 .item-testimonials h3{
+	 	font-size: 13px;
+	 	margin: 8% auto;
+	 }
+	 form input.icon {
+	    background-size:  left 10px;
+	    padding-left: 33px;
+	}
+	form input{
+		font-size: 13px;
+		width: 152px;
+	}
+	input[type='submit'] {
+        font-size: 13px;
+	}
+	 .logo-footer{
+	 	margin-right: 5%;
+	 }
+	 .logo-footer img{
+	 	width: 200px;
+        height: 66px;
+	 }
+     .nav-footer{
+	 	margin-right: 5%;
+	 }
+	 .nav-footer ul{
+	 	margin-right: 20%;
+	 }
+	 .contacts-footer  img[src="img/footer/placeholder.svg"]{
+	 margin-bottom: 20px;
+     }
+}
+@media screen and (max-width:768px){
+	 .conteiner{
+		width: 100%;
+	 }
+	 .header-top{
+	 	height: 144px;
+	 }
+	 #logo-header{
+	 	float: none;
+       margin-left: 10px;
+	 }
+	 .contacts {
+	 	float: left;
+	    margin-left: 20px;
+	    margin-top: 10px;
+	 }
+	 .contacts div{
+	 	float: none;
+	 }
+	 .header-nav .nav-block{
+		display: none;
+	}
+	.header-nav .btn{
+		margin-left: 10px;
+	}
+	.header-nav .nav-open {
+	   display: block;
+	   float: right;
+	   margin-top: 18px;
+	   margin-right: 18px;
+	   cursor: pointer;
+    }
+    .header-promo{
+    	top:10%;
+    }
+    .header-promo h2{
+    	font-size: 31px;
+	    line-height: 47px;
+	    margin-bottom: 4%;
+    }
+    .header-promo a{
+    	font-size: 12px;
+	    line-height: 2;
+	    width: 183px;
+	    height: 27px;
+    }
+    .main-quote h3{
+    	font-size: 28px;
+        line-height: 36px;
+    }
+    .main-quote h4{
+    	font-size: 13px;
+        line-height: 6px;
+    }
+    .description-about{
+    	margin-bottom: 30px;
+    }
+    .main-about h3{
+    	font-size: 35px;
+       line-height: 40px;
+    }
+    .description-about p{
+    	font-size: 14px;
+	    margin-bottom: 20px;
+    }
+    
+    .about-competence{
+	   flex-wrap: wrap;
+    }
+    .competence-item {
+	    width: 33%;
+	    background: #F6F7EB;
+	    margin-right: 10px;
+	    float: left;
+	    padding: 20px 34px 29px;
+	    margin-bottom: 10px;
+    }
+    .item-img.technical-support, .item-img.partner, .leader{
+        width: 55px;
+	    height: 55px;
+	    background-size: 100% 100%;
+    }
+    
+    .competence-item h2{
+    	font-size: 18px;
+        line-height: 20px;
+    }
+    .competence-item p{
+    	font-size: 13px;
+        line-height: 23px;
+    }
+    .about-news{
+    	margin-bottom: 50px;
+    }
+    .item-news{
+    	width: 45%;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .item-news h3{
+    	font-size: 15px;
+       line-height: 16px;
+    }
+    .item-news h3+p{
+    	font-size: 14px;
+        line-height: 24px;
+    }
+    .item-news p:last-child{
+    	font-size: 13px;
+        line-height: 22px;
+        margin-bottom: 13px;
+    }
+    .item-news a{
+    	font-size: 11px;
+	    line-height: 30px;
+	    padding-left: 57%;
+    }
+    .img-lemon{
+    	justify-content: space-around;
+    }
+    .img-lemon div{
+    	margin-top: 108px;
+    }
+    .text-lemon{
+       
+        justify-content: space-around;
+    }
+    .item-text {
+    	margin-right: 53px;
+    }
+    
+    
+    .bg-tesimonials{
+    	width: 100%;
+	    margin-top: 45px;
+	    background-size: 90% 85%;
+    }
+    .bg{
+    	flex-wrap: wrap;
+    	padding-bottom: 0;
+    }
+    div.title-testimonials{
+    	margin-top: 110px;
+    }
+    .about-testimonials{
+    	justify-content: space-around;
+    }
+    .item-testimonials{
+    	height: 85%;
+    }
+    .item-testimonials img{
+	 	width: 80px;
+       height: 80px;
+	 }
+	 .item-testimonials h2{
+	 	font-size: 16px;
+        line-height: 20px;
+        margin: 8% auto;
+	 }
+	 .item-testimonials p{
+	 	font-size: 11px;
+       line-height: 18px;
+	 }
+	 .item-testimonials h3{
+	 	font-size: 12px;
+	 	margin-bottom: 24px;
+	 }
+	 .about-subscribe h2{
+	 	font-size: 35px;
+        line-height: 40px;
+	 }
+	 .about-subscribe p{
+	 	font-size: 13px;
+	 }
+	 .privacy-subscribe p, .copyright p{
+	 	font-size: 13px;
+        line-height: 18px;
+	 }
+    .main-subscribe form{
+    	flex-wrap: wrap;
+    	justify-content: space-around;
+    }
+    input {
+    	margin-bottom: 10px;
+    }
+    input[type='submit']{
+    	margin-right: 27px;
+    }
+    footer .conteiner{
+    	flex-wrap: wrap;
+    	justify-content: space-around;
+    	height: 100%;
+    }
+    .logo-footer{
+    	margin-left: 20px;
+    }
+    .text-footer p{
+    	font-size: 13px;
+    }
+    .nav-footer h2, .contacts-footer h2{
+    	font-size: 19px;
+        line-height: 16px;
+    }
+    .nav-footer li a{
+    	font-size: 14px;
+        line-height: 10px;
+    }
+    .nav-footer .btn{
+    	width: 90px;
+	    height: 32px;
+	    font-size: 14px;
+    }
+    .contacts-footer{
+    	margin-right: 5%;
+    }
+    .contacts-footer div{
+    	font-size: 14px;
+    }
+}
+
+@media screen  and (max-width: 480px){
+	.conteinet {
+		width: 100%
+	}
+
+	.header-top{
+		text-align: center;
+		height: 138px;
+	}
+	#logo-header{
+		float: none;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+	.contacts {
+		margin-left: 10px;
+        font-size: 13px;
+        float: left;
+	}
+	.contacts div{
+		text-align: left;
+	}
+	section.main-header{
+		margin-bottom: -3px;
+	}
+	.header-bg{
+    	display: none;
+    }
+    .header-bg-mobile{
+	    display: block;
+    }
+    .header-bg-mobile img{
+	    width: 100%;
+	    height: 100%;
+    }
+    .header-promo{
+    	top:32%;
+    }
+    .header-promo h2{
+    	font-size: 33px;
+	    line-height: 44px;
+	    margin-bottom: 7%;
+    }
+    .header-promo a{
+    	font-size: 15px;
+	    line-height: 3.2;
+	    width: 270px;
+	    height: 50px;
+    }
+    section.main-quote{
+    	padding-top: 20px;
+        height: 160px;
+    }
+    .main-about{
+    	height: 1120px;
+    }
+    .competence-item{
+    	width: 50%;
+    	padding: 15px ;
+    }
+    .about-competence .competence-item:last-child{
+    	margin-right: 10px;
+    }
+    .main-customers{
+    	height: 558px;
+    }
+    .img-lemon, .text-lemon{
+    	flex-direction: column;
+    	align-items: center;
+    }
+    .img-lemon div{
+    	margin-top: 9px;
+    }
+    .img-lemon div:last-child{
+    	margin-right: 17%;
+    }
+    .text-lemon{
+    	margin-top: -500px;
+    }
+    .item-text{
+    	margin-top: 0;
+    }
+    .text-lemon .item-text:last-child{
+    	margin-right: 53px;
+    }
+    .main-news h2{
+    	margin-bottom: 22px;
+    }
+    .about-news{
+    	margin-bottom: 0;
+    	flex-direction: column;
+    	align-items: center;
+    }
+    .item-news{
+    	width: 67%;
+    }
+    .about-news .item-news:last-child{
+    	margin-right: 10px;
+    }
+    .about-testimonials{
+    	flex-direction: column;
+        align-items: center;
+    }
+    .item-testimonials{
+    	width: 68%;
+        margin-bottom: 20px;
+    }
+    .about-testimonials .item-testimonials:last-child{
+    	    margin-right: 20px;
+    }
+    .bg-tesimonials{
+    	background-size: 100% 70%;
+    }
+    
+} 
